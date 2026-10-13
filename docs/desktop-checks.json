@@ -1,0 +1,67 @@
+[
+  {
+    "app": "org.gnome.Calculator.desktop",
+    "name": "Calculator",
+    "path": "$XDG_DESKTOP_DIR/org.gnome.Calculator.desktop",
+    "trusted": "true",
+    "new_windows": [
+      {
+        "name": "计算器",
+        "class": "gnome-calculator\u0000gnome-calculator\u0000"
+      }
+    ],
+    "passed": true
+  },
+  {
+    "app": "org.gnome.Terminal.desktop",
+    "name": "Terminal",
+    "path": "$XDG_DESKTOP_DIR/org.gnome.Terminal.desktop",
+    "trusted": "true",
+    "new_windows": [
+      {
+        "name": "终端",
+        "class": "gnome-terminal-server\u0000Gnome-terminal\u0000"
+      }
+    ],
+    "passed": true
+  },
+  {
+    "app": "firefox_firefox.desktop",
+    "name": "Firefox",
+    "path": "$XDG_DESKTOP_DIR/firefox_firefox.desktop",
+    "trusted": "true",
+    "new_windows": [
+      {
+        "name": "Mozilla Firefox",
+        "class": "Navigator\u0000firefox_firefox\u0000"
+      }
+    ],
+    "passed": true
+  },
+  {
+    "app": "com.tencent.WeChat.desktop",
+    "name": "微信",
+    "path": "$XDG_DESKTOP_DIR/com.tencent.WeChat.desktop",
+    "trusted": "true",
+    "new_windows": [
+      {
+        "name": "微信",
+        "class": "wechat\u0000wechat\u0000"
+      }
+    ],
+    "passed": true
+  },
+  {
+    "app": "firefox_firefox.desktop",
+    "name": "Firefox",
+    "path": "$XDG_DESKTOP_DIR/firefox_firefox (2).desktop",
+    "trusted": "true",
+    "new_windows": [
+      {
+        "name": "Mozilla Firefox",
+        "class": "Navigator\u0000firefox_firefox\u0000"
+      }
+    ],
+    "passed": true
+  }
+]
